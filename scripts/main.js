@@ -9,19 +9,19 @@ const santi = new Developer(
 santi.agregarProyecto(
   "eCommerce MongoDB",
   "Proyecto de ventas con colecciones desnormalizadas, clases y validaciones.",
-  "https://github.com/Santiago7i/Proyecto_MongoDB_II_AcevedoSantiago"
+  "https://github.com/Santiago7i/Review_NodeJs_Acevedo_Santiago"
 );
 
 santi.agregarProyecto(
   "Gestión Escolar",
-  "Sistema escolar usando MongoDB, POO y agregaciones.",
-  ""
+  "Proyecto de un Sistema escolar usando MongoDB, POO y agregaciones.",
+  "https://github.com/Santiago7i/Proyecto_NodeJS_AcevedoSantiago"
 );
 
 santi.agregarProyecto(
   "Portafolio Web",
   "Este portafolio hecho en HTML, CSS y JavaScript.",
-  ""
+  "https://github.com/Santiago7i/Portafolio_SantiagoAcevedo"
 );
 
 // Puedes seguir agregando más así:
